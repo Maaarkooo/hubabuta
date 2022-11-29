@@ -1,0 +1,37 @@
+body {
+    background-color:SLATEGRAY ;
+}
+div {
+    margin: auto;
+    width: 50%;
+
+}
+img {
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.fenti {
+    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2, h1 {
+    text-decoration: overline underline;
+    color:beige;
+}
+p {
+    text-align: justify;
+    color:beige;
+}
+table,th,td,tr {
+    border: 2px solid black;
+    border-collapse: collapse;
+    color:beige;
+}
+li {
+    color:beige;
+}
